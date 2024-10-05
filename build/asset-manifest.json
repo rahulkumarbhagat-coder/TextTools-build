@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/TextTools-build/static/js/main.5a542259.js",
+    "index.html": "/TextTools-build/index.html",
+    "main.5a542259.js.map": "/TextTools-build/static/js/main.5a542259.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.5a542259.js"
+  ]
+}
